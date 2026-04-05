@@ -1,6 +1,5 @@
 
-# Phase-Blind GAT: Adversarial Vulnerability in Complex-Valued 
-# GNN Beamformers
+# Phase-Blind GAT: Adversarial Vulnerability in Complex-Valued GNN Beamformers
 
 ## Overview
 
